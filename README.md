@@ -7,6 +7,10 @@ The PC code is a python script which sends a string, this script also measures t
 
 The firmware is written in C.
 
+# Demo Video
+
+https://drive.google.com/file/d/1Z4HQKhjGBKwLDoZKC9P7yDzFC989T_Cs/view?usp=sharing
+
 # The Process
 
 # UART 
